@@ -1,1 +1,2 @@
 Section 1: The primary objective of version control is to maintain a verifiable history of changes across distributed teams.
+Section 2: Branch isolation prevents unverified code from compromising the stability of the main production branch.
